@@ -83,7 +83,7 @@ A full academic paper describing the dataset, methodology, experiments, and find
 Diabetes-Health-Indicators-ML/
 │
 ├── README.md
-├── requirements.txt
+├─
 │
 ├── paper/
 │ └── Diabetes_health_indicator.pdf
@@ -94,10 +94,4 @@ Diabetes-Health-Indicators-ML/
 │ └── evaluation.ipynb
 │
 ├── results/
-│ └── metrics_summary.csv
-│
-├── assets/
-│ └── plots/
-│
-└── data/
-└── README.md
+
